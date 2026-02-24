@@ -8,3 +8,10 @@
 
 ## titre du commit
 description de notre commit avec l'évolution du projet 
+
+## encvoi de commit
+
+''''bash 
+git status
+git add . 
+git push origin master
