@@ -15,3 +15,7 @@ description de notre commit avec l'évolution du projet
 git status
 git add . 
 git push origin master
+
+## creation d'une
+'''bash 
+   git checkout -b dev 
