@@ -19,3 +19,6 @@ git push origin master
 ## creation d'une
 '''bash 
    git checkout -b dev 
+
+
+   pour la bonne pratique on vas voir la notion de revus de code 
