@@ -22,3 +22,5 @@ git push origin master
 
 
    pour la bonne pratique on vas voir la notion de revus de code 
+   ## new commit
+   salut je suis un nouveau dev
