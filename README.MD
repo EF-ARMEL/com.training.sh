@@ -16,7 +16,7 @@ git status
 git add . 
 git push origin master
 
-## coffre
+## creation d'une
 '''bash 
    git checkout -b dev 
 
